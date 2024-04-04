@@ -42,14 +42,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+  # - block: skills
+  #   content:
+  #     title: Skills
+  #     text: ''
+  #     # Choose a user to display skills from (a folder name within `content/authors/`)
+  #     username: admin
+  #   design:
+  #     columns: '1'
   - block: experience
     content:
       title: Education
@@ -244,7 +244,7 @@ sections:
       text: |-
         I am open to most collaborations.
       # Contact (add or remove contact options as necessary)
-      email: w "dot" yuan "at" utwente "dot" nl
+      email: w.yuan@utwente.nl
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
@@ -255,9 +255,9 @@ sections:
         country: Netherlands
         country_code: NL
       directions: Office B331
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      # office_hours:
+      #   - 'Monday 10:00 to 13:00'
+      #   - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '52.2405'
