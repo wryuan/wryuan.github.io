@@ -72,7 +72,7 @@ sections:
           description: |2-
               * Thesis(provisional): *Deep Reinforcement Learning for Vocational Choice Test* 
               * Supervisors: [Stéphanie Van De Berg](https://people.utwente.nl/stephanie.vandenberg) and [Johannes](https://people.utwente.nl/j.steinrucke)
-        - title: MSc in Mathematics
+        - title: MSc in Mathematics (specialization in operations research)
           company: University of Melbourne
           company_url: ''
           company_logo: 
@@ -85,7 +85,7 @@ sections:
         - title: BA in Mathematics
           company: University of Washington
           company_url: ''
-          company_logo: org-x
+          company_logo: 
           location: Seattle, United States
           date_start: '2015-09-23'
           date_end: '2019-06-19'
@@ -248,13 +248,13 @@ sections:
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: De Zul 10
-        city: Enschede
-        region: Overijssel
-        postcode: '7522 NJ'
+        street: Office B331, De Zul 10, 7522 NJ Enschede, Netherlands
+        city: 
+        region: 
+        postcode: ''
         country: Netherlands
         country_code: NL
-      directions: Office B331
+      directions: 
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
